@@ -4,6 +4,7 @@ using namespace std;
 // Nama = ZAJIROH
 // Nim  = 1121031082
 // Kelas= B
+// Deskripsi : memasukan jam, menit, dan detik lalu divalidasi menggunakan ADT
 int main()
 {
     int HH,MM,SS,a,b;
